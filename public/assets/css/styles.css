@@ -1,0 +1,11 @@
+
+
+body {
+  overflow-y: scroll;
+}
+
+
+textarea {
+  width: 100%;
+  min-height: 100px;
+}

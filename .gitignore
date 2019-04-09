@@ -1,0 +1,5 @@
+node_modules
+.env
+homework_instructions.md
+installing-MongoDB.md
+18-mongo-mongoose
